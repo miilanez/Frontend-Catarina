@@ -1,0 +1,13 @@
+// console.log("teste");
+// let age = 18;
+// console.log(age);
+// age = 10;
+// console.log(age);
+// const age2: number = 20;
+// let idade = 31;
+// let idade2 = 18;
+// idade2 = "5";
+// let altura = 1.60;
+var numero = 10;
+var text = "Catarina";
+var boolean = false;
